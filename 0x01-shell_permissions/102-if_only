@@ -1,2 +1,2 @@
 #!/bin/bash
-chown root/betty :guillaume hello
+chown root/betty :betty/hello
